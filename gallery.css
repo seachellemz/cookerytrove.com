@@ -1,7 +1,7 @@
 @media (min-width: 701px) {
   .screenshot-row {
-    grid-template-columns: repeat(2, minmax(0, 290px));
+    grid-template-columns: repeat(4, minmax(0, 1fr));
     justify-content: center;
-    gap: 64px;
+    gap: 26px;
   }
 }
